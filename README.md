@@ -1,15 +1,21 @@
 # Project: Classes (Group 8)
 
-Course:
+### Course:
+
 CPRG-16-B
 
-Instructor:
+### Instructor:
+
 Anthony Azimi
 
-Group 8 Members:
-Ahmad Fakhry
-Margarita Levchun
-Mehtab Singh
-Mehdi Mahrokhzad
+### Spring 2024 Semester
 
-Spring 2024 Semester
+### Group 8 Members:
+
+- Ahmad Fakhry
+
+- Margarita Levchun
+
+- Mehtab Singh
+
+- Mehdi Mahrokhzad
